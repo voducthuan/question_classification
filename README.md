@@ -1,1 +1,1 @@
-# Question Classification with Neural Model LSTM
+# Information Extraction meets Ad hoc Information Retrieval
