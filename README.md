@@ -1,1 +1,1 @@
-# Information Extraction meets Ad hoc Information Retrieval
+# Question Classification Using Bi-LSTM
